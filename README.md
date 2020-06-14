@@ -4,25 +4,6 @@ Source: https://github.com/joelparkerhenderson/git_commit_message
 
 To write a great git commit message, take a look at these guidelines and suggestions.
 
-Contents:
-
-* [Top priorities](#top-priorities)
-* [Begin with a short summary line](#begin-with-a-short-summary-line)
-* [Continue with a longer description](#continue-with-a-longer-description)
-* [Summary examples](#summary-examples)
-* [Summary keywords](#summary-keywords)
-* [Real-world examples](#real-world-examples)
-* [Use semantic versioning](#use-semantic-versioning)
-* [Specifics for right and wrong](#specifics-for-right-and-wrong)
-* [Specifics for length](#specifics-for-length)
-* [Reasoning](#reasoning)
-* [Reject these formats](#reject-these-formats)
-* [Optional: use contact email addresses](#optional-use-contact-email-addresses)
-* [Optional: use task tracking links](#optional-use-task-tracking-links)
-* [Optional: use resource tracking metrics](#optional-use-resource-tracking-metrics)
-* [Optional: use keywords, importance, references, etc.](#optional-use-keywords-importance-references-etc)
-* [Related links](#related-links)
-
 
 ## Summary
 
